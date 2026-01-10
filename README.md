@@ -1,7 +1,13 @@
-# Robotics with Arduino & Raspberry Pi 🤖
+# Arduino to Robotics 🤖
 
-This repository is a practical robotics and embedded systems portfolio
-developed for RoboTech Albania (Metropolitan University of Tirana).
+This repository introduces Arduino from fundamentals to complete robotic systems.
+It is designed for RoboTech Albania – Metropolitan University of Tirana.
+
+## 📌 Learning Path
+1. Arduino fundamentals (structure & logic)
+2. Sensors & actuators
+3. Simple Arduino models
+4. Autonomous robot (Line follower + obstacle detection)
 
 ## 🎯 Goals
 - Teach Arduino from basics to real robotic systems
@@ -10,22 +16,19 @@ developed for RoboTech Albania (Metropolitan University of Tirana).
 - Encourage clean code, documentation, and engineering thinking
 
 ## 🧠 Technologies
-- Arduino (UNO, Nano)
-- Raspberry Pi
+- Arduino (UNO, Mega)
 - C / C++
-- Python
 - Sensors & actuators
 - Serial communication
 - Control logic
 
-## 📂 Repository Structure
-- Arduino Basics
-- Sensors & Modules
-- Robot Models
-- Raspberry Pi Projects
-- Communication Systems
-- Documentation & Diagrams
+## 🧠 Skills Covered
+- Embedded programming (C/C++)
+- Digital & analog I/O
+- Sensors & actuators
+- Control logic
+- Robotics system design
 
 ## 🧑‍🏫 Mentor Leader
-**Mateos Sharka**  
-RoboTech Albania – Metropolitan University of Tirana
+Mateos Sharka  
+RoboTech Albania
