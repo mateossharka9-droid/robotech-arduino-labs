@@ -1,26 +1,51 @@
 # Arduino to Robotics 🤖
 
-This repository introduces Arduino from fundamentals to complete robotic systems.
-It is designed for RoboTech Albania – Metropolitan University of Tirana.
+This repository is a complete introduction to robotics using Arduino,
+designed for RoboTech Albania (Metropolitan University of Tirana).
 
-## 📌 Learning Path
-1. Arduino fundamentals (structure & logic)
-2. Sensors & actuators
-3. Simple Arduino models
-4. Autonomous robot (Line follower + obstacle detection)
+The goal is to guide students step by step:
+from understanding how Arduino works,
+to building an autonomous robot using sensors and actuators.
 
-## 🎯 Goals
-- Teach Arduino from basics to real robotic systems
-- Build working models with sensors & actuators
-- Introduce Raspberry Pi for advanced robotics & vision
-- Encourage clean code, documentation, and engineering thinking
+---
 
-## 🧠 Technologies
-- Arduino (UNO, Mega)
-- C / C++
-- Sensors & actuators
-- Serial communication
-- Control logic
+## 🎯 Objectives
+
+- Understand Arduino hardware and programming structure
+- Learn how sensors and actuators work
+- Combine components into simple working models
+- Design and implement an autonomous robot
+- Develop logical thinking for robotics systems
+
+---
+
+## 🧠 Learning Path
+
+This repository follows a structured learning flow:
+
+1. Arduino fundamentals  
+2. Sensors and actuators  
+3. Simple Arduino-based models  
+4. Autonomous robot (Line follower with obstacle detection)
+
+Each section includes:
+- Explanation (README)
+- Wiring / photos
+- Arduino code
+- Practical logic
+
+---
+
+## 🧰 Technologies Used
+
+- Arduino UNO / Mega
+- C / C++ (Arduino)
+- Infrared sensors
+- Ultrasonic sensor
+- DC motors & motor drivers
+- Embedded systems logic
+
+---
 
 ## 🧠 Skills Covered
 - Embedded programming (C/C++)
@@ -29,6 +54,10 @@ It is designed for RoboTech Albania – Metropolitan University of Tirana.
 - Control logic
 - Robotics system design
 
+---
+
 ## 🧑‍🏫 Mentor Leader
-Mateos Sharka  
-RoboTech Albania
+
+**Mateos Sharka**  
+RoboTech Albania  
+Metropolitan University of Tirana
